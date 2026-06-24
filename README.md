@@ -1,4 +1,4 @@
-# BRFSS Depression Analysis
+# BRFSS Employment Status and Depression Analysis
 
 This project explores associations between depression and socioeconomic factors in U.S. adults using the 2013 BRFSS survey dataset.
 
